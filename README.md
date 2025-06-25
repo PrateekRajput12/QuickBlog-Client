@@ -38,3 +38,9 @@
 # Step-4 :- Footer,BlogCard,Newsletter (Home Page Completed )
 - each component done using jsx and tailwind no dancy animation and all 
 - Home Page Completed
+
+# Step-5 :- Blog Page 
+- use useparams to fetch id 
+- after fetching id extract data from it using useEffect 
+- use moment package to date in good format 
+- with  a loader is created 
